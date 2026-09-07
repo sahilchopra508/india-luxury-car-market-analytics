@@ -56,6 +56,18 @@ Focuses on luxury electric vehicle adoption:
 - EV sales by brand
 - Brand EV positioning
 
+## 📊 Dashboard Preview
+
+The complete interactive dashboard consists of five analytical pages:
+
+- Overview
+- State Analysis
+- Brand Competition
+- Model Analysis
+- EV Analysis
+
+📄 **[View the complete dashboard PDF](cars_pbi.pdf)**
+
 ## 🛠️ Tools & Technologies
 
 - Power BI
