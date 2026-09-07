@@ -66,7 +66,7 @@ The complete interactive dashboard consists of five analytical pages:
 - Model Analysis
 - EV Analysis
 
-📄 **[View the complete dashboard PDF](cars_pbi.pdf)**
+📄 **[View the complete dashboard PDF](cars pbi.pdf)**
 
 ## 🛠️ Tools & Technologies
 
